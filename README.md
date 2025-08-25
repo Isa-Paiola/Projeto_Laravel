@@ -74,6 +74,32 @@ Este projeto é de uso livre para fins acadêmicos e de estudo.
 
 ---
 
+## 💻Páginas
+- ### Tela Inicial
+<img width="1919" height="1004" alt="Captura de tela 2025-08-25 154348" src="https://github.com/user-attachments/assets/3e8ba0d9-294b-4373-85d0-5039cc7d6412" />
+
+---
+
+- ### Tela Cadastrar
+<img width="1915" height="1001" alt="Captura de tela 2025-08-25 154609" src="https://github.com/user-attachments/assets/8ccd2dc7-d06d-44f6-b5fd-030f8a8be122" />
+
+---
+
+- ### Tela Login
+<img width="1919" height="1006" alt="Captura de tela 2025-08-25 154649" src="https://github.com/user-attachments/assets/1e97745b-e103-49e0-81ab-14d45b2b6e0d" />
+
+---
+
+- ### Tela Estou Logado
+<img width="1919" height="1003" alt="Captura de tela 2025-08-25 154813" src="https://github.com/user-attachments/assets/08e13643-32bb-4f04-99df-128a3c624fee" />
+
+---
+
+- ### Tela Editar
+<img width="1919" height="1004" alt="Captura de tela 2025-08-25 154900" src="https://github.com/user-attachments/assets/b2dc6ad3-3ffe-4ba0-b471-ce09319060da" />
+
+---
+
 ## 📜 Licença
 Este projeto é de uso livre para fins acadêmicos e de estudo.
 💙 Desenvolvido com dedicação por Isabela Paiola
