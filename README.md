@@ -31,28 +31,60 @@ As telas estão padronizadas com um **tema em azul bebê + cinza azulado**, gara
 
 ---
 
-## ⚙️ Instalação e Execução
+## ⚙️ Como rodar o projeto
 
+1️⃣ **Clone o repositório**
 ```bash
-# Clone o repositório
 git clone https://github.com/Isa-Paiola/Projeto_Laravel.git
-
-# Acesse a pasta
 cd Projeto_Laravel
 
-# Instale dependências
-composer install
+2️⃣ Instale as dependências
+```bash
+composer install]
 
-# Copie o arquivo .env
-cp .env.example .env
+3️⃣ Configure o ambiente
+*Copie o arquivo .env.example e renomeie para .env
+*Configure o banco de dados (usuário, senha e nome do banco)
 
-# Gere a chave da aplicação
+4️⃣ Gere a chave da aplicação
+```bash
 php artisan key:generate
 
-# Configure o banco de dados no .env e rode as migrations
+5️⃣ Crie as tabelas no banco
+```bash
 php artisan migrate
 
-# Inicie o servidor
+6️⃣ Inicie o servidor
+```bash
 php artisan serve
 
+✨ Agora acesse no navegador:
+👉 http://127.0.0.1:8000
 
+📂 Estrutura de Pastas
+```bash
+Projeto_Laravel/
+ ├── app/             # Controllers, Models e lógica de negócio
+ ├── resources/views/ # Telas (Blade templates: login, cadastro, home, etc.)
+ ├── routes/web.php   # Rotas da aplicação
+ ├── public/          # Arquivos públicos (CSS, JS, imagens)
+ └── database/        # Migrations e seeds
+
+🎨 Layout
+As páginas possuem um tema visual padronizado:
+Gradiente em azul bebê + cinza azulado
+Botões arredondados
+Estilo responsivo com Bootstrap 5
+
+🤝 Contribuição
+Faça um fork do projeto
+Crie uma branch para sua feature (git checkout -b feature/minha-feature)
+Faça commit das alterações (git commit -m 'Minha nova feature')
+Envie para o repositório (git push origin feature/minha-feature)
+Abra um Pull Request 🎉
+
+📜 Licença
+Este projeto é de uso livre para fins acadêmicos e de estudo.
+Defina uma licença oficial (ex: MIT) se desejar.
+
+💙 Desenvolvido com dedicação por Isa-Paiola
