@@ -33,9 +33,9 @@ As telas estão padronizadas com um **tema em azul bebê + cinza azulado**, gara
 
 ## 🎨 Layout
 As páginas possuem um tema visual padronizado:
-Gradiente em azul bebê + cinza azulado
-Botões arredondados
-Estilo responsivo com Bootstrap 5
+- Gradiente em azul bebê + cinza azulado
+- Botões arredondados
+- Estilo responsivo com Bootstrap 5
 
 ## 📜 Licença
 Este projeto é de uso livre para fins acadêmicos e de estudo.
@@ -43,28 +43,38 @@ Este projeto é de uso livre para fins acadêmicos e de estudo.
 ## ⚙️ Como rodar o projeto
 
 1️⃣ **Clone o repositório**
-```bash
-git clone https://github.com/Isa-Paiola/Projeto_Laravel.git
-cd Projeto_Laravel
+- git clone https://github.com/Isa-Paiola/Projeto_Laravel.git
+- cd Projeto_Laravel
 
-2️⃣ Instale as dependências
-```bash
-composer install]
+---
 
-3️⃣ Configure o ambiente
-*Copie o arquivo .env.example e renomeie para .env
-*Configure o banco de dados (usuário, senha e nome do banco)
+2️⃣ **Instale as dependências**
+- composer install]
 
-4️⃣ Gere a chave da aplicação
-```bash
-php artisan key:generate
+  ---
 
-5️⃣ Crie as tabelas no banco
-```bash
-php artisan migrate
+3️⃣ **Configure o ambiente**
+- Copie o arquivo .env.example e renomeie para .env
+- Configure o banco de dados (usuário, senha e nome do banco)
 
-6️⃣ Inicie o servidor
-```bash
-php artisan serve
+---
 
+4️⃣ **Gere a chave da aplicação**
+- php artisan key:generate
+
+---
+
+5️⃣ **Crie as tabelas no banco**
+- php artisan migrate
+
+---
+
+6️⃣ **Inicie o servidor**
+- php artisan serve
+
+---
+
+## 📜 Licença
+Este projeto é de uso livre para fins acadêmicos e de estudo.
+💙 Desenvolvido com dedicação por Isabela Paiola
 
