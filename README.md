@@ -49,7 +49,7 @@ Este projeto é de uso livre para fins acadêmicos e de estudo.
 ---
 
 2️⃣ **Instale as dependências**
-- composer install]
+- composer install
 
   ---
 
