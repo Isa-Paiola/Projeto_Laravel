@@ -104,5 +104,7 @@ Este projeto é de uso livre para fins acadêmicos e de estudo.
 Este projeto é de uso livre para fins acadêmicos e de estudo.
 💙 Desenvolvido com dedicação por Isabela Paiola
 
+---
+
 #### LinkedIn
 https://www.linkedin.com/in/isabela-paiola/
