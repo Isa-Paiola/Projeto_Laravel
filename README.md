@@ -31,6 +31,15 @@ As telas estão padronizadas com um **tema em azul bebê + cinza azulado**, gara
 
 ---
 
+## 🎨 Layout
+As páginas possuem um tema visual padronizado:
+Gradiente em azul bebê + cinza azulado
+Botões arredondados
+Estilo responsivo com Bootstrap 5
+
+## 📜 Licença
+Este projeto é de uso livre para fins acadêmicos e de estudo.
+
 ## ⚙️ Como rodar o projeto
 
 1️⃣ **Clone o repositório**
@@ -58,33 +67,4 @@ php artisan migrate
 ```bash
 php artisan serve
 
-✨ Agora acesse no navegador:
-👉 http://127.0.0.1:8000
 
-📂 Estrutura de Pastas
-```bash
-Projeto_Laravel/
- ├── app/             # Controllers, Models e lógica de negócio
- ├── resources/views/ # Telas (Blade templates: login, cadastro, home, etc.)
- ├── routes/web.php   # Rotas da aplicação
- ├── public/          # Arquivos públicos (CSS, JS, imagens)
- └── database/        # Migrations e seeds
-
-🎨 Layout
-As páginas possuem um tema visual padronizado:
-Gradiente em azul bebê + cinza azulado
-Botões arredondados
-Estilo responsivo com Bootstrap 5
-
-🤝 Contribuição
-Faça um fork do projeto
-Crie uma branch para sua feature (git checkout -b feature/minha-feature)
-Faça commit das alterações (git commit -m 'Minha nova feature')
-Envie para o repositório (git push origin feature/minha-feature)
-Abra um Pull Request 🎉
-
-📜 Licença
-Este projeto é de uso livre para fins acadêmicos e de estudo.
-Defina uma licença oficial (ex: MIT) se desejar.
-
-💙 Desenvolvido com dedicação por Isa-Paiola
