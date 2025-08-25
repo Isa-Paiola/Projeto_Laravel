@@ -32,7 +32,7 @@
 <body>
 <div class="bg-wave">
     <div>
-        <h2>Bem vinda, você está logada!</h2>
+        <h2>Bem vinda(o), você está logada(o)!</h2>
         <!-- <a href="{{ route('users.index') }}" class="btn btn-blue">Usuários</a> -->
         <a href="{{ route('home') }}" class="btn btn-blue">Sair</a>
     </div>
